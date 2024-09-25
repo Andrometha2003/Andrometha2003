@@ -1,6 +1,6 @@
 Hello!!
-I'm a 2nd year computer engineering student from FCUL, ready for new challenges.
-I know Java, Haskell and C.
+I'm a 3rd year computer engineering student from FCUL, ready for new challenges.
+I know Java, Haskell, C, Phyton, HTML, CSS e Javascript.
 :D
 
 
